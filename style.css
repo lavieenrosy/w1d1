@@ -28,7 +28,10 @@ header {
   padding:8px;
 } 
 
+aside section h4 {
+  font-style: oblique;
 
+}
 img {
   height: 300px;
   width:300px;
